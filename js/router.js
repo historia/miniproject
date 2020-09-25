@@ -19,7 +19,7 @@ define([
 
     app_router.on('route:defaultAction', function (actions) {
      
-       // We have no matching route, lets display the home page 
+       // We have no matching route, lets display the home page hey
         var numberView = new NumberView();
         numberView.render();
     });
