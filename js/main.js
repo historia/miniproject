@@ -14,7 +14,7 @@ require.config({
 });
 
 require([
-  // Load our app module and pass it to our definition function
+  // Load our app module and pass it to our definition function test
   'app',
 
 ], function(App){
